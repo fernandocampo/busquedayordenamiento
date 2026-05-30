@@ -1,0 +1,11 @@
+# Ignorar ejecutables compilados sin extensión
+ej1
+ej2
+*.exe
+*.out
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Ignorar archivos temporales de Code Runner
+tempCodeRunnerFile*
